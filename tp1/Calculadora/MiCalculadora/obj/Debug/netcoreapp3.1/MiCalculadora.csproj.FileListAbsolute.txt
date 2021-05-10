@@ -1,0 +1,7 @@
+C:\Users\Usuario\Desktop\UTN\labo2progra2\tps\tp1\Calculadora\MiCalculadora\obj\Debug\netcoreapp3.1\MiCalculadora.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\UTN\labo2progra2\tps\tp1\Calculadora\MiCalculadora\obj\Debug\netcoreapp3.1\MiCalculadora.Form1.resources
+C:\Users\Usuario\Desktop\UTN\labo2progra2\tps\tp1\Calculadora\MiCalculadora\obj\Debug\netcoreapp3.1\MiCalculadora.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\UTN\labo2progra2\tps\tp1\Calculadora\MiCalculadora\obj\Debug\netcoreapp3.1\MiCalculadora.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\UTN\labo2progra2\tps\tp1\Calculadora\MiCalculadora\obj\Debug\netcoreapp3.1\MiCalculadora.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\UTN\labo2progra2\tps\tp1\Calculadora\MiCalculadora\obj\Debug\netcoreapp3.1\MiCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\UTN\labo2progra2\tps\tp1\Calculadora\MiCalculadora\obj\Debug\netcoreapp3.1\MiCalculadora.FormCalculadora.resources

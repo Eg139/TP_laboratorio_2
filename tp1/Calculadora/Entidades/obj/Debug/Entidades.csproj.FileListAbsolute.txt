@@ -1,0 +1,9 @@
+C:\Users\Usuario\Desktop\UTN\labo2progra2\tps\tp1\Calculadora\Entidades\bin\Debug\Entidades.exe.config
+C:\Users\Usuario\Desktop\UTN\labo2progra2\tps\tp1\Calculadora\Entidades\bin\Debug\Entidades.exe
+C:\Users\Usuario\Desktop\UTN\labo2progra2\tps\tp1\Calculadora\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Usuario\Desktop\UTN\labo2progra2\tps\tp1\Calculadora\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\UTN\labo2progra2\tps\tp1\Calculadora\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\UTN\labo2progra2\tps\tp1\Calculadora\Entidades\obj\Debug\Entidades.exe
+C:\Users\Usuario\Desktop\UTN\labo2progra2\tps\tp1\Calculadora\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Usuario\Desktop\tps\tp1\Calculadora\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\tps\tp1\Calculadora\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
